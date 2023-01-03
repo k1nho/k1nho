@@ -5,7 +5,7 @@
 * 👨‍💻  Mainly focused on web apps and platform. Interested in building high performance applications and Cybersecurity
 * 🌍  Based in USA 🇺🇸
 * 🐂  Graduate from USF
-* 🖥️  Check out my portfolio [kin's website](https://www.kinhong.vercel.app)
+* 🖥️  Check out my portfolio [kin's website](https://kinhong.vercel.app/)
 * 🔥  "Where there's a will there's a way" 
 
 ### Tech I like 
