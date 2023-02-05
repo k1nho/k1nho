@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-* 👨‍💻  Mainly focused on web apps and platform. Interested in building high performance applications and Cybersecurity
+* 👨‍💻  Mainly focused on web apps and platform. Interested in building high performance applications and cybersecurity
 * 🌍  Based in USA 🇺🇸
 * 🐂  Graduate from USF
 * 🖥️  Check out my portfolio [kin's website](https://kinhong.vercel.app/)
