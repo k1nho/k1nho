@@ -37,6 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1nho&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="229" />
 </div>
 
+<h1><a href=https://holopin.io/@k1nho target=_blank><img alt="@k1nho's Holopin board" src="https://holopin.io/api/user/board?user=k1nho"></a></h1>
+
 <!---
 k1nho/k1nho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
