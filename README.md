@@ -7,8 +7,6 @@
 - 🍕 Take a look at my open source journey [kin's highlights](https://insights.opensauced.pizza/user/k1nho)
 - 📖 Read about my development stories [kin's Devto](https://dev.to/k1nho) , [kin's medium](https://medium.com/@k1nho)
 
-> 🔥 "Where there's a will there's a way"
-
 ### 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
