@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Kin
 
 - 🌍 Based in USA 🇺🇸
-- 🖥️ Check out my portfolio [kin's website](https://kinhong.vercel.app/)
-- 🍕 Open source [kin's highlights](https://insights.opensauced.pizza/user/k1nho)
+- 🖥️ Website [kin's website](https://kinhong.vercel.app/)
 - 📖 Read about my development stories [kin's Devto](https://dev.to/k1nho) , [kin's medium](https://medium.com/@k1nho)
 - 👾 Currently Hacking on [Gahara](https://github.com/Gahara-Editor/gahara)
 
