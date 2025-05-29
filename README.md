@@ -14,7 +14,7 @@
 
 ### 📫 Let's Connect!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Kinho_nth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Kinho_nth) [![Open Sauced Highlights](https://img.shields.io/badge/🍕%20Open%20Source-212121)](https://insights.opensauced.pizza/user/k1nho/highlights)
+[![Twitter Badge](https://img.shields.io/badge/-@Kinho_nth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Kinho_nth)
 
 ### Stats
 
