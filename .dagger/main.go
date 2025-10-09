@@ -76,7 +76,7 @@ func fetchFeed(url string) (RSSFeed, error) {
 func (m *K1nho) UpdateReadme(
 	// +defaultPath="."
 	source *dagger.Directory,
-	gitToken *dagger.Secret,
+	token *dagger.Secret,
 
 ) {
 	rssFeed, err := fetchFeed("https://k1nho.github.io/blog/index.xml")
@@ -103,7 +103,7 @@ func (m *K1nho) UpdateReadme(
 	dag.Container().From("alpine/git").
 		WithDirectory("/k1nho", source.WithNewFile("README.md", newContent)).
 		WithWorkdir("/k1nho").
-		WithSecretVariable("GITHUB_TOKEN", gitToken).
+		WithSecretVariable("GITHUB_TOKEN", token).
 		WithExec([]string{"git", "config", "--global", "user.name", "k1nho"}).
 		WithExec([]string{"git", "config", "--global", "user.email", "kinhong99@gmail.com"}).
 		WithExec([]string{"git", "add", "README.md"}).

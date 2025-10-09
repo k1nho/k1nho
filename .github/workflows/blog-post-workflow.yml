@@ -20,4 +20,4 @@ jobs:
       - name: Fetch RSS feeds and Update README file
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: dagger call update-readme --gitToken=env:GITHUB_TOKEN
+        run: dagger call update-readme --token=env:GITHUB_TOKEN
