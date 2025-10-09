@@ -2,12 +2,13 @@
 
 - 🌍 Based in USA 🇺🇸
 - 🖥️ Website [kin's website](https://kinhong.vercel.app/)
-- 📖 Read about my development stories [kin's Devto](https://dev.to/k1nho) , [kin's medium](https://medium.com/@k1nho)
+- 📖 Read about my development stories in my [blog](https://k1nho.github.io/blog/)
 - 👾 Currently Hacking on [Gahara](https://github.com/Gahara-Editor/gahara)
 
 ### 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [A 💯 Days in Open Source: Key Lessons That Will Help You Get Started 🚀](https://dev.to/k1nho/a-days-in-open-source-key-lessons-that-will-help-you-get-started-4e38)
 - [You Might be Overlooking the PUT Method in Your REST API](https://dev.to/k1nho/you-might-be-overlooking-the-put-method-in-your-rest-api-2b1h)
 <!-- BLOG-POST-LIST:END -->
