@@ -100,7 +100,7 @@ func (m *K1nho) UpdateReadme(
 
 	newContent := readmeContent[:startIdx+len(start)] + "\n" + blogListString + readmeContent[endIdx:]
 
-	dag.Container().From("alpine/git").
+	ctr := dag.Container().From("alpine/git").
 		WithDirectory("/k1nho", source.WithNewFile("README.md", newContent)).
 		WithWorkdir("/k1nho").
 		WithSecretVariable("GITHUB_TOKEN", token).
@@ -110,4 +110,8 @@ func (m *K1nho) UpdateReadme(
 		WithExec([]string{"sh", "-c", "git diff --cached --quiet || git commit -m 'cron: update blog posts in README'"}).
 		WithExec([]string{"git", "push", "origin", "HEAD"})
 
+	_, err = ctr.ExitCode(context.Background())
+	if err != nil {
+		log.Fatalf("failed to push to git %v\n", err)
+	}
 }
