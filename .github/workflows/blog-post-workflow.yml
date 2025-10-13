@@ -2,7 +2,7 @@ name: Update README with Blog Posts
 
 on:
   schedule:
-    - cron: "0 12 * * *" # Runs at 12:00 PM UTC every day
+    - cron: "0 17 * * *"
   workflow_dispatch:
 
 permissions:
