@@ -83,7 +83,7 @@ func (m *K1nho) UpdateReadme(
 	if err != nil {
 		log.Fatal("could not fetch RSS Feed")
 	}
-	blogListString := formatBlogList(rssFeed.Channel.Item, 4)
+	blogListString := formatBlogList(rssFeed.Channel.Item, 5)
 
 	file := source.Directory(".").File("README.md")
 	readmeContent, err := file.Contents(context.Background())
