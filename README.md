@@ -8,11 +8,11 @@
 ### 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Byte Size Series - Limiting CPU and Memory Usage with Cgroups](https://k1nho.github.io/blog/posts/byte-size-series-limiting-cpu-and-memory-usage-with-cgroups/)
 - [Automating my RSS Feed with Dagger](https://k1nho.github.io/blog/posts/automating-my-rss-feed-with-dagger/)
 - [Create Beautiful Documentation with Mkdocs Material](https://k1nho.github.io/blog/posts/create-beautiful-documentation-with-mkdocs-material/)
-- [What is CIDR?](https://k1nho.github.io/blog/posts/what-is-cidr/)
+- [Byte Size Series - What is CIDR?](https://k1nho.github.io/blog/posts/byte-size-series-what-is-cidr/)
 - [A 100 Days in Open Source: Key Lessons That Will Help You Get Started 🚀](https://k1nho.github.io/blog/posts/a-100-days-in-open-source-key-lessons-that-will-help-you-get-started/)
-- [You Might Be Overlooking the PUT Method in your REST API](https://k1nho.github.io/blog/posts/you-might-be-overlooking-the-put-method-in-your-rest-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Let's Connect!
