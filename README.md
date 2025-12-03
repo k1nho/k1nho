@@ -16,6 +16,7 @@
 
 ### 📫 Let's Connect!
 
+[![LinkedIn Badge](https://img.shields.io/badge/-Kin%20Hong%20Ng-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kin-hong-ng/)
 [![Twitter Badge](https://img.shields.io/badge/-@Kinho_nth-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Kinho_nth)
 
 ### Stats
