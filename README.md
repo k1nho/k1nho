@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Kin
 
 - 🌍 Based in USA 🇺🇸
-- 🖥️ Website [kin's website](https://kinhong.vercel.app/)
 - 📖 Read about my development stories in my [blog](https://k1nho.github.io/blog/)
 - 👾 Currently Hacking on my [homelab](https://github.com/k1nho/homelab)!
 
