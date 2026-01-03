@@ -7,7 +7,7 @@
 ### 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Byte Size Series - Limiting CPU and Memory Usage with Cgroups](https://k1nho.github.io/blog/posts/byte-size-series-limiting-cpu-and-memory-usage-with-cgroups/)
+- [Byte Size Series - Limiting CPU and Memory Usage with cgroups](https://k1nho.github.io/blog/posts/byte-size-series-limiting-cpu-and-memory-usage-with-cgroups/)
 - [Automating my RSS Feed with Dagger](https://k1nho.github.io/blog/posts/automating-my-rss-feed-with-dagger/)
 - [Create Beautiful Documentation with Mkdocs Material](https://k1nho.github.io/blog/posts/create-beautiful-documentation-with-mkdocs-material/)
 - [Byte Size Series - What is CIDR?](https://k1nho.github.io/blog/posts/byte-size-series-what-is-cidr/)
