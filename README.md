@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Kin
 
 - 🌍 Based in USA 🇺🇸
-- 📖 Read about my development stories in my [blog](https://k1nho.github.io/blog/)
+- 📖 Read about my development stories in my [blog](https://kincodes.com)
 - 👾 Currently Hacking on my [homelab](https://github.com/k1nho/homelab)!
 
 ### 📝 Blog Posts
