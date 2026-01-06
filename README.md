@@ -7,11 +7,11 @@
 ### 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Byte Size Series - Limiting CPU and Memory Usage with cgroups](https://k1nho.github.io/blog/posts/byte-size-series-limiting-cpu-and-memory-usage-with-cgroups/)
-- [Automating my RSS Feed with Dagger](https://k1nho.github.io/blog/posts/automating-my-rss-feed-with-dagger/)
-- [Create Beautiful Documentation with Mkdocs Material](https://k1nho.github.io/blog/posts/create-beautiful-documentation-with-mkdocs-material/)
-- [Byte Size Series - What is CIDR?](https://k1nho.github.io/blog/posts/byte-size-series-what-is-cidr/)
-- [A 100 Days in Open Source: Key Lessons That Will Help You Get Started 🚀](https://k1nho.github.io/blog/posts/a-100-days-in-open-source-key-lessons-that-will-help-you-get-started/)
+- [Kinho's Homelab Series - Securing my Network with Tailscale](http://kincodes.com/posts/kinhos-homelab-series-securing-my-network-with-tailscale/)
+- [Byte Size Series - Limiting CPU and Memory Usage with cgroups](http://kincodes.com/posts/byte-size-series-limiting-cpu-and-memory-usage-with-cgroups/)
+- [Automating my RSS Feed with Dagger](http://kincodes.com/posts/automating-my-rss-feed-with-dagger/)
+- [Create Beautiful Documentation with Mkdocs Material](http://kincodes.com/posts/create-beautiful-documentation-with-mkdocs-material/)
+- [Byte Size Series - What is CIDR?](http://kincodes.com/posts/byte-size-series-what-is-cidr/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Let's Connect!
