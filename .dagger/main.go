@@ -79,7 +79,7 @@ func (m *K1nho) UpdateReadme(
 	token *dagger.Secret,
 
 ) {
-	rssFeed, err := fetchFeed("https://k1nho.github.io/blog/index.xml")
+	rssFeed, err := fetchFeed("https://kincodes.com/index.xml")
 	if err != nil {
 		log.Fatal("could not fetch RSS Feed")
 	}
