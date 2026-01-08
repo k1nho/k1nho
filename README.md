@@ -7,11 +7,11 @@
 ### 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Byte Size Series - What is CIDR?](http://kincodes.com/posts/byte-size-series-what-is-cidr/)
 - [Kinho's Homelab Series - Securing my Network with Tailscale](http://kincodes.com/posts/kinhos-homelab-series-securing-my-network-with-tailscale/)
 - [Byte Size Series - Limiting CPU and Memory Usage with cgroups](http://kincodes.com/posts/byte-size-series-limiting-cpu-and-memory-usage-with-cgroups/)
 - [Automating my RSS Feed with Dagger](http://kincodes.com/posts/automating-my-rss-feed-with-dagger/)
 - [Create Beautiful Documentation with Mkdocs Material](http://kincodes.com/posts/create-beautiful-documentation-with-mkdocs-material/)
-- [Byte Size Series - What is CIDR?](http://kincodes.com/posts/byte-size-series-what-is-cidr/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Let's Connect!
