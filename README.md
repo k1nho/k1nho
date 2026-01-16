@@ -4,7 +4,11 @@
 - 📖 Read about my development stories in my [blog](https://kincodes.com)
 - 👾 Currently Hacking on my [homelab](https://github.com/k1nho/homelab)!
 
-### 📝 Blog Posts
+### ⭐ Featured Posts
+
+- [Kinho's Homelab Series](https://kincodes.com/tags/homelab-series/)
+
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Kinho's Homelab Series - Orchestration Platform and Networking (K3s + Cilium)](http://kincodes.com/posts/kinhos-homelab-series-orchestration-platform-and-networking-k3s--cilium/)
