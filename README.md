@@ -11,11 +11,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a CI Pipeline for Container Images with Dagger and GitHub Actions](http://kincodes.com/posts/building-a-ci-pipeline-for-container-images-with-dagger-and-github-actions/)
 - [Kinho's Homelab Series - Orchestration Platform and Networking (K3s + Cilium)](http://kincodes.com/posts/kinhos-homelab-series-orchestration-platform-and-networking-k3s--cilium/)
 - [Byte Size Series - What is CIDR?](http://kincodes.com/posts/byte-size-series-what-is-cidr/)
 - [Kinho's Homelab Series - Securing my Network with Tailscale](http://kincodes.com/posts/kinhos-homelab-series-securing-my-network-with-tailscale/)
 - [Byte Size Series - Limiting CPU and Memory Usage with cgroups](http://kincodes.com/posts/byte-size-series-limiting-cpu-and-memory-usage-with-cgroups/)
-- [Automating my RSS Feed with Dagger](http://kincodes.com/posts/automating-my-rss-feed-with-dagger/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Let's Connect!
